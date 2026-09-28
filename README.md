@@ -22,7 +22,17 @@ Atualmente construindo minha base em desenvolvimento de software por meio da fac
 
 ## Projetos
 
-Aqui estão alguns dos projetos e estudos que venho desenvolvendo durante minha formação em Tecnologia da Informação.
+### Chat com API de IA
+Projeto acadêmico desenvolvido com integração a uma API de IA, utilizando Git e GitHub, testes automatizados e GitHub Actions.
+
+### Estruturas de Dados
+Projeto acadêmico desenvolvido em Python, aplicando diferentes estruturas de dados a problemas de gerenciamento de pedidos e analisando suas operações e complexidade.
+
+### Banco de Dados
+Projeto acadêmico desenvolvido com MySQL e SQL, envolvendo modelagem de dados, criação de tabelas e relacionamentos, inserção de registros e consultas.
+
+### Projetos Web
+Projetos desenvolvidos durante minha formação em HTML, CSS e JavaScript.
 
 ## Contato
 
