@@ -1,16 +1,32 @@
-## Hi there 👋
+# Emmanuel Esteves
 
-<!--
-**Estevesx26/Estevesx26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Atualmente construindo minha base em desenvolvimento de software por meio da faculdade, cursos e projetos acadêmicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conhecimentos
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL / MySQL
+- Git e GitHub
+- APIs
+- Testes Automatizados
+- GitHub Actions
+
+## Atualmente Estudando
+- Python
+- Desenvolvimento Web
+- Estruturas de Dados
+
+## Projetos
+
+Aqui estão alguns dos projetos e estudos que venho desenvolvendo durante minha formação em Tecnologia da Informação.
+
+## Contato
+
+## 🔗 Contato
+
+- [LinkedIn](https://linkedin.com/in/emmanuel-esteves)
+- [Portfólio](https://estevesx26.github.io/projeto-portfolio-pessoal/)
