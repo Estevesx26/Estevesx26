@@ -5,38 +5,42 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Atualmente construindo minha base em desenvolvimento de software por meio da faculdade, cursos e projetos acadêmicos.
 
 ## Conhecimentos
+
 - Python
-- HTML
-- CSS
-- JavaScript
-- SQL / MySQL
+- HTML, CSS e JavaScript
+- SQL e MySQL
 - Git e GitHub
 - APIs
-- Testes Automatizados
+- Testes automatizados
 - GitHub Actions
+- Estruturas de dados
+- Fundamentos de redes e Segurança da Informação
 
-## Atualmente Estudando
+## Projetos em destaque
+
+### Chat com Gemini API
+Aplicação de chat com integração à API do Gemini, testes automatizados e GitHub Actions.
+
+[Ver projeto](https://github.com/Estevesx26/gemini-api)
+
+### Estruturas de Dados em Python
+Projeto acadêmico envolvendo listas, pilhas, filas, tabelas hash e análise de complexidade.
+
+[Ver projeto](https://github.com/Estevesx26/estruturas-dados-python)
+
+### Banco de Dados MySQL
+Projeto acadêmico de modelagem relacional, criação de tabelas, relacionamentos e consultas SQL.
+
+[Ver projeto](https://github.com/Estevesx26/banco-de-dados-mysql)
+
+## Atualmente estudando
+
 - Python
 - Desenvolvimento Web
 - Estruturas de Dados
-
-## Projetos
-
-### Chat com API de IA
-Projeto acadêmico desenvolvido com integração a uma API de IA, utilizando Git e GitHub, testes automatizados e GitHub Actions.
-
-### Estruturas de Dados
-Projeto acadêmico desenvolvido em Python, aplicando diferentes estruturas de dados a problemas de gerenciamento de pedidos e analisando suas operações e complexidade.
-
-### Banco de Dados
-Projeto acadêmico desenvolvido com MySQL e SQL, envolvendo modelagem de dados, criação de tabelas e relacionamentos, inserção de registros e consultas.
-
-### Projetos Web
-Projetos desenvolvidos durante minha formação em HTML, CSS e JavaScript.
+- Banco de Dados
 
 ## Contato
 
-## 🔗 Contato
-
-- [LinkedIn](https://linkedin.com/in/emmanuel-esteves)
-- [Portfólio](https://estevesx26.github.io/projeto-portfolio-pessoal/)
+- LinkedIn: [Emmanuel Esteves](https://www.linkedin.com/in/emmanuel-esteves/)
+- GitHub: [Estevesx26](https://github.com/Estevesx26)
